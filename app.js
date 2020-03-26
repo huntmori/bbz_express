@@ -1,7 +1,7 @@
 const express = require("express");
-app = express();
-http = require("http").createServer(app);
-port = 8001;
+const app = express();
+const http = require("http").createServer(app);
+const port = 8080;
 
 app.get("/", function(request, response){
     response.end("hello [express] world");

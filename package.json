@@ -1,0 +1,28 @@
+{
+  "name": "bbz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test_app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntmori/bbz_express.git"
+  },
+  "keywords": [
+    "study",
+    "nod",
+    "js"
+  ],
+  "author": "huntmori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huntmori/bbz_express/issues"
+  },
+  "homepage": "https://github.com/huntmori/bbz_express#readme"
+}
